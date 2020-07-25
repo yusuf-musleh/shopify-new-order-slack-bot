@@ -1,0 +1,8 @@
+{
+  "name": "shopify-new-order-slack-bot",
+  "author": "Yusuf Musleh <yusuf@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
